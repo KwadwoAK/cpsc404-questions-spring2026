@@ -6,7 +6,7 @@
 ## Question
 Prof. Ken mentioned that money is the 'safety' level in Maslow's hierarchy of needs. However, in the tech industry, we often face the "Golden Handcuffs" dillema, where high compensation keeps us in unfulfilling jobs.
 
-My question is a hypothetical regarding this trade-off: if you were offered double or triple your current salary (or expected starting salary) on the coniditon that you must surrender all techincal autonomy like simply followign orders on legacy systems with no opportunity for innovation or learning - would you accept if for 3 years?
+My question is a hypothetical regarding this trade-off: if you were offered double or triple your current salary (or expected starting salary) on the coniditon that you must surrender all techincal autonomy like simply following orders on legacy systems with no opportunity for innovation or learning. Would you accept it for 3 years?
 
 What does your answer reveal about which level of Maslow's  pyramid
 (Safety vs. Self-Actualization) is more important to you?
