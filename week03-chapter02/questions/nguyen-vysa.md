@@ -1,4 +1,4 @@
-# Week 2 Question - Chapter 1: Making Inevitable Conflict Productive
+# Week 2 Question - Chapter 2: Giving Good-Enough Answers
 
 **Student:** Vy Sa Nguyen
 **Date:** February 4, 2026
